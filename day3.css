@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.menu {
+    display: flex;
+}
+
+
+p {
+    border: 2px solid seagreen;
+    padding: 46px;
+    /* margin: 30px; */
+
+    background-color: rgb(61, 130, 191);
+    font-size: 30px;
+
+    
+}
+
+
+
+.highlight-class{
+    background-color: whitesmoke;
+}

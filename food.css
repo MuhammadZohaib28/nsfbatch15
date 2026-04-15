@@ -69,3 +69,81 @@ header div img {
     width: 4rem;
 
 }
+
+
+
+
+
+.search-container{
+    /* border: 2px solid black; */
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+
+    /* margin: 2rem auto;
+
+    width: 90%;
+
+    background-color: gainsboro;
+
+    padding: 2rem; */
+
+
+
+    /* width: 90%; */
+
+
+    background-color: rgb(193, 193, 193);
+
+    padding: 2rem;
+
+
+
+   position: relative;
+
+    
+
+}
+
+
+
+.search-container input {
+    padding: 1rem;
+    width: 100%;
+
+    border-radius: 2rem;
+    outline: none;
+    border: 1.3px solid red;
+    
+}
+
+
+
+.search-container img {
+    transform: rotate(180deg);
+
+    position: absolute;
+
+
+    right: 4rem;
+
+    
+
+}
+
+.examplekaparent{
+    background-color: rebeccapurple;
+
+    position: relative;
+    
+    
+}
+
+
+
+.example {
+    position: absolute;
+    top: 0;
+    left: 12rem;
+}
